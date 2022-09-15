@@ -12,5 +12,4 @@ printf statement format specifier is %.3f but should actually be %3.3f
 
 ***
 In **Chapter 5.2 Arithmetic Operators**
-Replace the 4th paragraph with: Let us look at what the % modulus (or modulo) operator does. The result of the x % y expression is the remainder of the x / y integral division. For example, the result of the 9 % 2 is equal to 1. With integral division, 9 divided by 2 equals 4, so the result of the modulus operation is 1, because 9 minus 8 equals 1.
-
+Replace the 4th paragraph with: Let us look at what the modulo (the remainder) operator **%** does. The result of the x % y expression is the remainder of the x / y integral division. For example, the result of the 9 % 2 is equal to 1. With integral division, 9 divided by 2 equals 4. And 2 * 4 is equal to 8. The result of the modulo operation is 1, because 9 - 8 equals 1.
